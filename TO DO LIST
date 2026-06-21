@@ -1,0 +1,7 @@
+-Interactive events in the campaign map, like picking up survivors from sunken ships which gives back some command points, intercepting enemy radio messages which will highlight an enemy fleet for a few hours, etc
+-VT shells for mid to late war allied ships
+-Make torpedo bombers turn around and disengage after dropping their payloads
+-Implement boom and zoom tactics for fast planes with low maneuvrability
+-UAD-inspired turret flashfires caused sometimes by a weapon being destroyed (must be above 152mm in caliber for it to occur), which may lead to a magazine explosion
+-Make subs pitch up and down when diving/rising
+-Add damage textures (shell and bomb holes, etc)
