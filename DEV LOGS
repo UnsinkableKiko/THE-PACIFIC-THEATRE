@@ -7,7 +7,12 @@ Australia:
 -Fixed issue with Leander class name
 
 Japan:
--Lowered turn rate for Fuso, Ise, Nagato, Tosa and Adatara
+-Lowered turn rate for Fuso
+-Lowered turn rate for Ise
+-Lowered turn rate for Nagato
+-Lowered turn rate for Tosa
+-Lowered turn rate for Adatara
+-Lowered turn rate for Kamogawa Maru
 -Added Kaichu type submarine
 -Fixed issue with Kaidai 3A class submarine
 
@@ -17,6 +22,10 @@ AIRCRAFT
 
 America:
 -Fixed issue with F4U Corsair bomb loadout (1x 2000lb bomb + 2x 1000lb AP bombs) which would cause it to not attack ships
+
+Japan:
+-Fixed issue with bomb loadout on Ki-27b which would cause it to not attack ships
+
 
 CAMPAIGN CHANGES
 ------------------------------------------
