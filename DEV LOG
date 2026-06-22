@@ -2,3 +2,4 @@
 -Fixed bomb loadout issue on Ki-27b which would cause it to not attack ships
 -Lowered turn rate for Kamogawa Maru
 -Fixed aircraft swarming certain locations like Dutch Harbor
+-Lowered chance of flooding spreading when a flooded cell is being repaired ("floodSpreadReducedByParty":0.65 -> "floodSpreadReducedByParty":0.85)
