@@ -41,3 +41,5 @@ GAME MECHANICS AND BUG FIXES
 
 -Changed sonar modifiers related to sea states
 -Significantly lowered passive sonar factor values for most ships (In layman's terms, ships are now generally harder to pick up on passive sonar)
+-Lowered chance of flooding spreading when a flooded cell is being repaired.
+-AI aircraft should no longer fly off in a single direction or swarm a location in the campaign map
