@@ -3,3 +3,8 @@
 -Lowered turn rate for Kamogawa Maru
 -Fixed aircraft swarming certain locations like Dutch Harbor
 -Lowered chance of flooding spreading when a flooded cell is being repaired. ("floodSpreadReducedByParty":0.65 -> "floodSpreadReducedByParty":0.85)
+
+24/6/2026
+-Lowered AI starting command points to 100
+-Removed 4 LargeInvasion sea missions
+-Fixed AI getting stuck trying to leave Port Moresby after invading
