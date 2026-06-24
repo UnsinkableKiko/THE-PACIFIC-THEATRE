@@ -5,3 +5,4 @@
 -UAD-inspired turret flashfires caused sometimes by a weapon being destroyed (must be above 152mm in caliber for it to occur), which may lead to a magazine explosion
 -Make subs pitch up and down when diving/rising
 -Add damage textures (shell and bomb holes, etc)
+-Make ships only be able to be released at locations that they can be recruited
