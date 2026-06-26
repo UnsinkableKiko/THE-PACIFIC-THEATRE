@@ -14,3 +14,5 @@
 
 26/6/2026
 -Updated AAA mounts on Arthur Middleton class attack transports and all other ships using the same model
+-Added Saipan to "maxAirAt" in the setup file
+-Added Port Blair to "maxPortAt" in the setup file
