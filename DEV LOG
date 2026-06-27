@@ -16,3 +16,6 @@
 -Updated AAA mounts on Arthur Middleton class attack transports and all other ships using the same model
 -Added Saipan to "maxAirAt" in the setup file
 -Added Port Blair to "maxPortAt" in the setup file
+
+27/6/2026
+-Lowered passive sonar factor for Surcouf
