@@ -19,3 +19,6 @@
 
 27/6/2026
 -Lowered passive sonar factor for Surcouf
+
+28/6/2026
+-Added "delayAIDays" strings to most non-patrol type sea missions (no more invasion fleet spam)
