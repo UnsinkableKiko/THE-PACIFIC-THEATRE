@@ -44,3 +44,6 @@
 
 1/7/2026
 -HMS Avenger now has surface and air search radar
+
+5/7/2026
+-Flood rate now scales based on damage (Lower health on a cell means it'll flood quicker)
