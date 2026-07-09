@@ -49,3 +49,6 @@
 -Flood rate now scales based on damage (Lower health on a cell means it'll flood quicker)
 -Flooded cells are now animated
 -Dive bombers roll over after 5 seconds instead of reaching an exact angle (no more staying upside down)
+
+9/7/2026
+-Damage decals from bombs and torpedoes
