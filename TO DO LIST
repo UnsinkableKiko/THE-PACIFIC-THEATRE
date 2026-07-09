@@ -6,3 +6,8 @@
 -Make subs pitch up and down when diving/rising
 -Add damage textures (shell and bomb holes, etc)
 -Make ships only be able to be released at locations that they can be recruited
+
+IMMEDIATE
+-Connect damage decal size to warhead damage
+-Make new decals
+-Do damage decals for shells, rockets and bullets
