@@ -6,6 +6,9 @@
 -Make subs pitch up and down when diving/rising
 -Add damage textures (shell and bomb holes, etc)
 -Make ships only be able to be released at locations that they can be recruited
+-Add boiling water effects around ships with raging fires (water hissing and bubbling sfx paired with white mist around the ship)
+-Restore water disturbance caused by blast shockwaves from large guns
+-Add same water disturbance for explosions
 
 IMMEDIATE
 -Connect damage decal size to warhead damage
