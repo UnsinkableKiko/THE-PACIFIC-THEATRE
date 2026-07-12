@@ -9,6 +9,7 @@
 -Add boiling water effects around ships with raging fires (water hissing and bubbling sfx paired with white mist around the ship)
 -Restore water disturbance caused by blast shockwaves from large guns
 -Add same water disturbance for explosions
+-Add small chance of turret flashfires when a turret is destroyed which may lead to a full magazine explosion
 
 IMMEDIATE
 -Connect damage decal size to warhead damage
