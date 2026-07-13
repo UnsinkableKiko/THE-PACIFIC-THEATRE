@@ -64,3 +64,6 @@
 
 13/7/2026
 -Turret pops when magazines explode with dynamic splash effects
+
+14/7/2026
+-Fixed AI submarines not blowing ballast when critically damaged
