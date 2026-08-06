@@ -89,3 +89,4 @@
 
 6/8/2026
 -Added black sand to several locations across the Pacific
+-Fixed ships spawning on land and causing softlocks (claustro)
