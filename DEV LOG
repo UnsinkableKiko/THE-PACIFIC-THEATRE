@@ -113,3 +113,6 @@
 -Added Ayanami class destroyer (Fubuki subclass)
 -Certain unit designations now don't appear in sea missions unless explicitly called
 -Fishing boats re-added to campaign
+
+28/8/2026
+-Made HE shells a lot more effective against unarmored targets. ("explosiveHitDamageFactor":1.0 -> "explosiveHitDamageFactor":2.0)
