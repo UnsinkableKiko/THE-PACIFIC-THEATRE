@@ -117,3 +117,6 @@
 28/8/2026
 -Made HE shells a lot more effective against unarmored targets. ("explosiveHitDamageFactor":1.0 -> "explosiveHitDamageFactor":2.0)
 -AI can no longer invade India
+
+30/8/2026
+-Aircraft that crash into the water at a shallow angle now skid across the surface and then sink
