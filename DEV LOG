@@ -145,3 +145,4 @@
 *Rescue shipwreck survivors
 *Rescue downed pilots
 *More to come later
+-Magazine explosions physically push ships downwards (push force is based on explosion strength)
