@@ -166,3 +166,4 @@
 
 17/9/2026
 -Fixed opposing turrets exceeding their max firing arcs
+-Fixed lingering flak burst code breaking depth charges
