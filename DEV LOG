@@ -171,3 +171,4 @@
 18/9/2026
 -New "rescue downed pilot" event
 -Rescuing survivors from a shipwreck now gives back half the command point cost of the ships that sank
+-Rescue events now have a chance of not spawning if there are no survivors
