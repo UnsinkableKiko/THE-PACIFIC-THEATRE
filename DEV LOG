@@ -179,3 +179,6 @@
 -Added nearly 300 new classes of ships (Canadian Dolphin)
 -Ships can now use their spotlights on aircraft
 -Magazine cells have a tripled chance of exploding if on fire
+
+24/9/2026
+-Destroyed rudders now cause ships to get locked in a turn
