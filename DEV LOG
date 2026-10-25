@@ -212,3 +212,6 @@
 23/10/2026
 -Added USS Allen (Sampson class)
 -Added HMT Aquitania (9'a)
+
+25/10/2026
+-Buffed F6F Hellcat survivability ("armorAbsorbProbability":0.35 -> "armorAbsorbProbability":0.65)
