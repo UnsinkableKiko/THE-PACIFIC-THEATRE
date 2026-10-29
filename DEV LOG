@@ -215,3 +215,6 @@
 
 25/10/2026
 -Buffed F6F Hellcat survivability ("armorAbsorbProbability":0.35 -> "armorAbsorbProbability":0.65)
+
+29/10/2026
+-Made aerial torpedo attacks a lot more accurate (torpedo bombers now take torpedo speed into consideration when leading the target)
