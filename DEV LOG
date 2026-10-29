@@ -219,3 +219,4 @@
 29/10/2026
 -Made aerial torpedo attacks a lot more accurate (torpedo bombers now take torpedo speed into consideration when leading the target)
 -AI bombers will always attack individually instead of in a group (usually results in more hits)
+-Torpedo bombers now turn around instead of flying over their targets after dropping their payloads
