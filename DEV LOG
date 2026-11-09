@@ -225,4 +225,7 @@
 -New track: Skyline - Halo 3: ODST
 
 8/11/2026
--New gunfire effects for fixed guns 
+-New gunfire effects for fixed guns
+
+9/11/2026
+-Removed turret pops from damaged turrets, instead they now have a chance to cause magazine explosions
