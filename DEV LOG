@@ -232,3 +232,6 @@
 
 11/11/2026
 -Added 4 new locations in the Philippines: Iba, Batangas, Aparri, Legazpi
+
+13/11/2026
+-New damage report system that prints a message to the combat log
