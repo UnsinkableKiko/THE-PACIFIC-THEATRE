@@ -241,3 +241,6 @@
 -Fixed repairing magazines not getting the guns back online
 -Lowered magazine explosion chance to 10%
 -New dynamic music system
+
+22/11/2026
+-Changed targetHighestWeightOnly from 0.5 to 0.85 (Aircraft have a higher chance of picking more important targets to attack)
