@@ -245,3 +245,6 @@
 22/11/2026
 -Changed targetHighestWeightOnly from 0.5 to 0.85 (Aircraft have a higher chance of picking more important targets to attack)
 -Fixed large muzzle flashes not causing ripples in the water 
+
+28/11/2026
+-Added custom engine and weapon sounds for all aircraft (big thanks to Zuikaku)
